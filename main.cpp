@@ -33,7 +33,7 @@ podredeniKarakteri<<sodrzina;
     return 0;
 }
 
-//funkcija za izdvojuvanje na najgolemata cifra od indeksot
+//funkcija za izdvojuvanje na najgolema cifra od indeksot
 int najgolemaCifra(){
     int najgolemaIzdvoenaCifra;
     int a,b,c;
