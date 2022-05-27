@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653581751 source:c:\users\andrej\desktop\seminarska strukturirano\napredno-proekt\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
