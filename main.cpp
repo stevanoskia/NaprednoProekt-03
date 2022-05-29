@@ -5,9 +5,7 @@
 using namespace std;
 
 //deklariranje globalni promenlivi i funkcii
-int index;
-int najgolemaCifra();
-void dodavanjeVofStream();
+
 
 int main()
 {
