@@ -2,8 +2,9 @@
 #include <vector>
 #include <algorithm>
 #include <fstream>
-// 
 using namespace std;
+
+//deklariranje globalni promenlivi i funkcii
 int index;
 int najgolemaCifra();
 void dodavanjeVofStream();
