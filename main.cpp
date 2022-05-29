@@ -16,7 +16,7 @@ int main()
     cout<<najgolemaIzdvoenaCifra<<endl;
 
     vector <char> karakteri;
-    string sodrzina = "Yo his palms are sweaty knees weak arms are heavy theres vomit on his sweater already moms spaghetti";
+    string sodrzina = "Yo his palms are sweaty knees weak arms are heavy theres vommit on his sweater already moms spaghetti";
 
     for(int i=0; i<sodrzina.size();i++){
         karakteri.push_back((sodrzina[i] + najgolemaIzdvoenaCifra));
@@ -32,8 +32,7 @@ cout<<sodrzina;
 podredeniKarakteri<<sodrzina;
     return 0;
 }
-
-//funkcija za izdvojuvanje na najgolema cifra od indeksot
+//funkcija za izdvojuvanje najgolema cifra od index
 int najgolemaCifra(){
     int najgolemaIzdvoenaCifra;
     int a,b,c;
@@ -51,6 +50,7 @@ int najgolemaCifra(){
     }
     return najgolemaIzdvoenaCifra;
 };
+
 
 
 
