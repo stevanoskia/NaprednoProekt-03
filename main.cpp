@@ -32,7 +32,7 @@ cout<<sodrzina;
 podredeniKarakteri<<sodrzina;
     return 0;
 }
-//funkcija za izdvojuvanje najgolema cifra od index
+// funkcija za izdvojuvanje najgolema cifra od index
 int najgolemaCifra(){
     int najgolemaIzdvoenaCifra;
     int a,b,c;
